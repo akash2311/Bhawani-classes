@@ -1,3 +1,3 @@
-# akash2311.github.io
+Bhawani Classes
 
 Website for Bhawani Classes.
